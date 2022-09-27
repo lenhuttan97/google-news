@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Bradford Betz",
+            "title": "Cannabis in US is a ‘$100 billion opportunity,’ Tilray CEO Irwin Simon says - Fox Business",
+            "description": "The legalization of marijuana at the federal level will be a $100 billion opportunity extending beyond just recreational and medical use, says Tilray CEO Irwin Simon.",
+            "url": "https://www.foxbusiness.com/markets/cannabis-us-100-billion-opportunity-tilray-ceo-irwin-simon-says",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/AP21351701368027.jpg?ve=1&tl=1",
+            "publishedAt": "2022-08-14T23:08:11Z",
+            "content": "Tilray CEO Irwin Simon believes the legalization of cannabis at the federal level will provide major business opportunities in the United States.\r\nIn a recent interview with Yahoo Finance Live, Simon… [+1311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Usda.gov"
+            },
+            "author": null,
+            "title": "Home Run Inn Frozen Foods Recalls Frozen Meat Pizza due to Possible Foreign Matter Contamination | Food Safety and Inspection Service - fsis.usda.gov",
+            "description": null,
+            "url": "http://www.fsis.usda.gov/recalls-alerts/home-run-inn-frozen-foods-recalls-frozen-meat-pizza-due-possible-foreign-matter",
+            "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
+            "publishedAt": "2022-08-14T21:33:45Z",
+            "content": "WASHINGTON, August 14, 2022 Home Run Inn Frozen Foods, a Woodbridge, Ill. establishment, is recalling approximately 13,099 pounds of frozen meat pizza product that may be contaminated with extraneous… [+2386 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Factory Orders Shrink in Ominous Sign for Global Outlook - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e1c40937-1c34-11ed-9bfb-714b6e526f62&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0xNC9jaGluYS1mYWN0b3J5LW9yZGVycy1zaHJpbmstaW4tb21pbm91cy1zaWduLWZvci1nbG9iYWwtb3V0bG9vaw==",
+            "urlToImage": null,
+            "publishedAt": "2022-08-14T21:00:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Yashu Gola",
+            "title": "Shiba Inu eyes 50% rally as SHIB price enters 'cup-and-handle' breakout mode - Cointelegraph",
+            "description": "The Shiba Inu breakout appears almost ten days after SHIB's addition to Binance Card.",
+            "url": "https://cointelegraph.com/news/shiba-inu-eyes-50-rally-as-shib-price-enters-cup-and-handle-breakout-mode",
+            "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDgvM2U2MjY5MjktNGMwOS00NjhlLWIzY2YtZmExMWZjN2Y5MWFkLmpwZw==.jpg",
+            "publishedAt": "2022-08-14T20:00:00Z",
+            "content": "Shiba Inu (SHIB) broke out of its prevailing \"cup-and-handle\" pattern on Aug. 14, raising its prospects of securing additional gains in the coming weeks.\r\nShiba Inu could soar 50%\r\nA cup-and-handle a… [+2829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Theo Wayt, Josh Kosman",
+            "title": "How Elon Musk might turn around his desperate fight against Twitter - New York Post ",
+            "description": "Interviewing Twitter employees is Musk’s best chance of proving his argument that Twitter knew it had a problem with bots and chose to cover it up.",
+            "url": "https://nypost.com/2022/08/14/how-elon-musk-might-turn-around-his-desperate-fight-against-twitter/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/elon-musk-comp-3.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-08-14T19:57:00Z",
+            "content": "Elon Musk is angling to force Twitter to hand over a group of key employees for questioning and the legal maneuver could be the moguls last and best hope in a desperate fight to scrap his $44 billion… [+4263 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "More home deals are falling through - The Seattle Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3MvbW9yZS1ob21lLWRlYWxzLWFyZS1mYWxsaW5nLXRocm91Z2gv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-08-14T19:19:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Points Guy"
+            },
+            "author": "Sean Cudahy",
+            "title": "Emirates chief ponders new future for Airbus A380. Is it realistic? - The Points Guy",
+            "description": "Is it possible there could be a more robust future than previously thought for the Airbus A380? Leaders at the world’s largest operator of the superjumbo jet",
+            "url": "http://thepointsguy.com/news/emirates-airbus-future/",
+            "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2022/04/Planes-LAX-Zach-Griff-12.jpg",
+            "publishedAt": "2022-08-14T19:00:30Z",
+            "content": "Is it possible there could be a more robust future than previously thought for the Airbus A380? Leaders at the world’s largest operator of the superjumbo jet hope so.\r\nIn an interview with CNN Travel… [+5494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kif Leswing",
+            "title": "Elon Musk says Tesla has made over 3 million cars - CNBC",
+            "description": "\"Congrats Giga Shanghai on making millionth car! Total Teslas made now over 3M,\" Musk tweeted.",
+            "url": "https://www.cnbc.com/2022/08/14/elon-musk-says-tesla-has-made-over-3-million-cars.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107094802-1658941667625-gettyimages-1232949289-20090101210517-99-633989.jpeg?v=1658941705&w=1920&h=1080",
+            "publishedAt": "2022-08-14T18:43:06Z",
+            "content": "Tesla has made over three million cars, CEO Elon Musk tweeted on Sunday. Of that total, Tesla's Shanghai factory has made one million cars, according to the tweet.\r\n\"Congrats Giga Shanghai on making … [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jessica Sonkin",
+            "title": "Tesla hedging: New ETF gears up to attract hesitant investors - CNBC",
+            "description": "Innovator ETFs launched the Innovator Hedged TSLA Strategy ETF (TSLH) – among other defined outcome products – last month.",
+            "url": "https://www.cnbc.com/2022/08/14/tesla-hedging-new-etf-gears-up-to-attract-hesitant-investors.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107085719-1657210528486-gettyimages-1405480830-img_3725_6d4a036e-8bb1-49dd-9c3e-205b6d95f622.jpeg?v=1660324762&w=1920&h=1080",
+            "publishedAt": "2022-08-14T18:27:50Z",
+            "content": "Risk-averse investors have a new option to make safer bets on Tesla. \r\nInnovator ETFs launched the Innovator Hedged TSLA Strategy ETF (TSLH) among other defined outcome products last month.\r\nAccordin… [+2933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Teslarati"
+            },
+            "author": "Johnna Crider",
+            "title": "George Soros buys Tesla ($TSLA) and other tech stocks - Teslarati",
+            "description": "According to a Friday filing with the Securities and Exchange Commission, George Soros bought over $20 million in shares of Tesla stock.",
+            "url": "https://www.teslarati.com/george-soros-buys-tesla-tsla-and-other-tech-stocks/",
+            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2022/08/george-soros-tsla.jpeg",
+            "publishedAt": "2022-08-14T17:34:34Z",
+            "content": "According to a Friday filing with the Securities and Exchange Commission, George Soros increased his investments in several tech stocks. The Soros Fund Management opened a new position in Tesla with … [+1988 chars]"
+        }
+    ]
+}

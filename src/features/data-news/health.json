@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 44,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Xantha Leatham",
+            "title": "Binge-eating and lack of exercise during lockdown has triggered huge increase in gout - Daily Mail",
+            "description": "It was once known as the 'disease of kings' - but hospital admissions for gout have surged due to binge-eating and exercising less during the lockdowns, figures suggest.",
+            "url": "https://www.dailymail.co.uk/health/article-11111167/Binge-eating-lack-exercise-lockdown-triggered-huge-increase-gout.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/14/22/61379715-0-image-a-50_1660511992003.jpg",
+            "publishedAt": "2022-08-14T21:22:02Z",
+            "content": "It was once known as the 'disease of kings' but hospital admissions for gout have surged due to binge-eating and exercising less during the lockdowns, figures suggest.\r\nThe number of cases has risen … [+1764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "msnNOW"
+            },
+            "author": null,
+            "title": "Doing This Right After Eating Can Slash Diabetes Risk, New Study Says - msnNOW",
+            "description": null,
+            "url": "https://www.msn.com/en-us/health/medical/doing-this-right-after-eating-can-slash-diabetes-risk-new-study-says/ss-AA10EK7i?li=BBnb7Kz",
+            "urlToImage": null,
+            "publishedAt": "2022-08-14T20:07:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Selim Algar",
+            "title": "Dog reportedly contracts monkeypox from owners - New York Post ",
+            "description": "A dog belonging to a gay French couple has contracted monkeypox after sharing their bed — the first known case of human-to-pet infection, according to reports.",
+            "url": "https://nypost.com/2022/08/14/dog-reportedly-contracts-monkeypox-from-owners/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/greyhound-getty-comp.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-08-14T20:07:00Z",
+            "content": "A dog belonging to a gay French couple has contracted monkeypox after sharing their bed — the first confirmed case of human-to-pet infection, according to reports.\r\nThe Parisian men, ages 44 and 27, … [+1416 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Cortney Moore",
+            "title": "Best care for bug bites: Doctors share treatment tips for minor and severe bites - Fox News",
+            "description": "Here’s what you need to know about bug bite treatment; doctors share their tips for addressing minor and severe bites along with warning signs people should watch for and note.",
+            "url": "https://www.foxnews.com/health/best-care-bug-bites-doctors-share-treatment-tips-minor-severe-bites",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/bed-bug-bites.jpg",
+            "publishedAt": "2022-08-14T19:25:39Z",
+            "content": "Spending time outdoors may sometimes mean youll have to deal with insects and their penchant for biting, including mosquitoes, horseflies, ticks, ants or spiders.\r\nSure, bug repellents exist. But the… [+6163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Felicity Nelson",
+            "title": "Scientists Gave Young Mice The Blood of Old Mice. Then Things Got Weird - ScienceAlert",
+            "description": "The elixir of life remains the stuff of legend, but aging the young before their time may not be as far-fetched.",
+            "url": "https://www.sciencealert.com/scientists-gave-young-mice-the-blood-of-old-mice-then-things-got-weird",
+            "urlToImage": "https://www.sciencealert.com/images/2022/08/mouse_1024.jpeg",
+            "publishedAt": "2022-08-14T18:01:42Z",
+            "content": "The elixir of life remains the stuff of legend, but aging the young before their time may not be as far-fetched.\r\nIn a new experiment, young mice briefly experienced signs of old age when scientists … [+2636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "msnNOW"
+            },
+            "author": null,
+            "title": "7 Medieval Medical Procedures That Will Make Your Skin Crawl - msnNOW",
+            "description": null,
+            "url": "https://www.msn.com/en-us/health/medical/7-medieval-medical-procedures-that-will-make-your-skin-crawl/ss-AA10Evd0?li=BBnbcA0",
+            "urlToImage": null,
+            "publishedAt": "2022-08-14T17:03:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "WHO renames two monkeypox variants to avoid geographic references - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvMzYwMTk1NS13aG8tcmVuYW1lcy10d28tbW9ua2V5cG94LXZhcmlhbnRzLXRvLWF2b2lkLWdlb2dyYXBoaWMtcmVmZXJlbmNlcy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-08-14T16:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatthis.com"
+            },
+            "author": "Samantha Boesch",
+            "title": "4 Foods Making Your Joint Pain Worse — Eat This Not That - Eat This, Not That",
+            "description": "Joint pain is a tough part of getting older, especially for those living with arthritis. Here are some foods making your joint pain worse.",
+            "url": "http://www.eatthis.com/foods-making-joint-pain-worse/",
+            "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/08/Arthritis-pain.jpg?quality=82&strip=all",
+            "publishedAt": "2022-08-14T11:26:21Z",
+            "content": "If you experience regular joint pain or swelling, you know the excruciating frustration of a sudden flare-up. While there are multiple reasons someone can experience consistent joint pain, one of the… [+3414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Women's Health"
+            },
+            "author": "Korin Miller",
+            "title": "10 Causes Of Tingling In Feet - Diagnosis And Treatment - Women's Health",
+            "description": "See how long it sticks around.",
+            "url": "https://www.womenshealthmag.com/health/a40850808/tingling-in-feet-causes/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/woman-massaging-her-feet-royalty-free-image-1660167319.jpg?crop=1xw:0.74912xh;center,top&resize=1200:*",
+            "publishedAt": "2022-08-14T11:23:24Z",
+            "content": "While your feet have the super important job of helping you get around on a regular basis, you probably dont notice much about them unless youre using them or looking right at them. But when you have… [+8686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatthis.com"
+            },
+            "author": "Tim Liu, C.S.C.S.",
+            "title": "The 5 Best Exercises To Lose Belly Fat and Slow Aging, Says Fitness Expert — Eat This Not That - Eat This, Not That",
+            "description": "Ready to kill two birds with one stone? We've put together some pretty stellar exercises that'll help you lose belly fat and slow aging.",
+            "url": "http://www.eatthis.com/best-exercises-lose-belly-fat-and-slow-aging/",
+            "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/08/man-barbell-exercise-slow-aging.jpg?quality=82&strip=all",
+            "publishedAt": "2022-08-14T11:00:28Z",
+            "content": "Killing two birds with one stone always sounds appealing when it comes to maintaining your physical fitness and leading an overall healthy lifestyle. You're likely aware of the benefits of staying fi… [+3618 chars]"
+        }
+    ]
+}

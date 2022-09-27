@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Some Target stores are discounting the Pixel 6 Pro by a crazy 70% right now - Android Police",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3RhcmdldC1waXhlbC02LXByby1jbGVhcmFuY2Uv0gEA?oc=5",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/12/pixel-6-pro-dramatic.jpg",
+            "publishedAt": "2022-08-14T18:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "EventHubs"
+            },
+            "author": "Justin 'AdaptiveTrigger' Gordon",
+            "title": "Brian_F's Jamie takes on RobTV's Ryu in a first-to-three in Street Fighter 6 - EventHubs",
+            "description": "Evo 2022 provided players with an opportunity to try out the Street Fighter 6 demo featuring Ryu, Chun-Li, Luke, and Jamie. Luckily for the rest of us, Capcom allowed players to capture footage of their matches.Over on Brian_F's ...",
+            "url": "https://www.eventhubs.com/news/2022/aug/14/brianf-jamie-robtv-ryu-sf6/",
+            "urlToImage": "https://media.eventhubs.com/images/2022/08/14_brian_rob-ft3-bnrt.webp",
+            "publishedAt": "2022-08-14T17:57:59Z",
+            "content": "Evo 2022 provided players with an opportunity to try out the Street Fighter 6 demo featuring Ryu, Chun-Li, Luke, and Jamie. Luckily for the rest of us, Capcom allowed players to capture footage of th… [+1123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wccftech"
+            },
+            "author": "Hassan Mujtaba",
+            "title": "MSI MPG X670E Carbon WiFi Motherboard Listed Online For Over 550 Euros, PRO X670-P WiFi For Over 350 Euros - Wccftech",
+            "description": "Like the AMD Ryzen 7000 Zen 4 CPUs that have appeared online, MSI's X670 motherboards have also been listed by various Italian retailers.",
+            "url": "https://wccftech.com/msi-mpg-x670e-carbon-wifi-motherboard-listed-online-for-over-550-euros-pro-x670-p-wifi-for-over-350-euros/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2022/08/MSI-X670E-Motherboards-_-Wccftech-_-13-740x416.png",
+            "publishedAt": "2022-08-14T17:13:30Z",
+            "content": "It's not just the AMD Ryzen 7000 \"Zen 4\" CPUs that are appearing on online listings but MSI's X670 motherboards have also been listed by various Italian retailers.\r\nMSI's MPG X670E Carbon WiFi &amp; … [+6543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Vikki Blake",
+            "title": "PS4 sold \"twice as many\" units as Xbox One, new court papers show - Eurogamer.net",
+            "description": "New court documents have confirmed that Sony's PS4 console sold \"twice as many\" units as Microsoft's Xbox One during la…",
+            "url": "https://www.eurogamer.net/ps4-sold-twice-as-many-units-as-xbox-one-new-court-papers-show",
+            "urlToImage": "https://assets.reedpopcdn.com/xbox-one-original.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-one-original.jpg",
+            "publishedAt": "2022-08-14T16:30:29Z",
+            "content": "New court documents have confirmed that Sony's PS4 console sold \"twice as many\" units as Microsoft's Xbox One during last-gen's \"console wars\".\r\nConfirmation comes via Brazilian court papers wherein … [+2196 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Apple may soon bring more ads to your iPhone - The Verge",
+            "description": "According to Apple tracker Mark Gurman, Apple could bring ads to more of the apps that come preinstalled on your iPhone, including Maps, Podcasts, and Books.",
+            "url": "https://www.theverge.com/2022/8/14/23305200/iphone-more-ads-advertising-apple-maps-podcasts-books-mark-gurman-rumors",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bhzcF8CuUL5IfCDOrzDM6JNgIwA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22863283/vpavic_210916_untitled_0004.jpg",
+            "publishedAt": "2022-08-14T15:54:10Z",
+            "content": "Photo by Vjeran Pavic / The Verge\r\nApple could eventually bring ads to more of the apps that come pre-installed on your iPhone and other Apple devices, including Maps, Books, and Podcasts. According … [+2999 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Nothing Phone 1 teardown reveals the underwhelming secrets of the Glyph interface - Android Police",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL25vdGhpbmctcGhvbmUtMS1qZXJyeXJpZ2V2ZXJ5dGhpbmcv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-08-14T15:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Genshin Impact: Version 3.0 - Official Trailer - IGN",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcL0a-3fRYxY",
+            "urlToImage": null,
+            "publishedAt": "2022-08-14T15:49:37Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The One Feature The Switch Desperately Needs - Nintendo Life",
+            "description": "The DS did it right from the startFollow Felix on Twitter: https://twitter.com/gobo_locoCheck out our full site: http://www.nintendolife.comLike us on Facebo...",
+            "url": "https://www.youtube.com/watch?v=GW18mx5NTj4",
+            "urlToImage": "https://i.ytimg.com/vi/GW18mx5NTj4/maxresdefault.jpg",
+            "publishedAt": "2022-08-14T15:00:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Oliver Mackenzie",
+            "title": "Apple Silicon Face-Off: M1 Ultra and M1 Max take on high-end PC juggernauts - Eurogamer.net",
+            "description": "Just how powerful is Apple Silicon compared against the best PC version to offer. Digital Foundry investigates.",
+            "url": "https://www.eurogamer.net/digitalfoundry-2022-apple-silicon-face-off-m1-ultra-and-m1-max-take-on-high-end-pc-hardware",
+            "urlToImage": "https://assets.reedpopcdn.com/m1-ultra-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/m1-ultra-(1).png",
+            "publishedAt": "2022-08-14T14:32:31Z",
+            "content": "It's high time Digital Foundry took a look at Apple Silicon and today we're going to be looking at the higher-end chips in the line-up. Our focus is on the monster that is the M1 Ultra, found within … [+18036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Robert Ramsey",
+            "title": "Poll: Sleeping Dogs Turns 10 Years Old - Are You Still a Fan? - Push Square",
+            "description": "Going Wei back",
+            "url": "https://www.pushsquare.com/features/poll-sleeping-dogs-turns-10-years-old-are-you-still-a-fan",
+            "urlToImage": "https://images.pushsquare.com/831262181c42f/1280x720.jpg",
+            "publishedAt": "2022-08-14T14:30:00Z",
+            "content": "Sleeping Dogs just turned ten years old! The sandbox title first launched for the PS3 on the 14th August 2012, and it's safe to say that it's fondly remembered. At the time, Sleeping Dogs didn't set … [+2102 chars]"
+        }
+    ]
+}
